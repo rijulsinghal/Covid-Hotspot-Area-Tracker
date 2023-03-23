@@ -8,7 +8,7 @@
 - [Hotspot Area](https://drive.google.com/open?id=1v2BRDRm15Sg0SFkDOJcw2fnwBnrmOeXw&usp=drive_copy)
 
 ## Language and Tools Used
--- Java
+- Java
 - Firebase
 - Android Studio
  
